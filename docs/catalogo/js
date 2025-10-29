@@ -1,4 +1,5 @@
-
+<main id="catalogo">
+<!-- Los productos se insertarán aquí con JavaScript -->
 const productos = [
  {
  nombre: 'Televisor LG Smart TV 38"',
@@ -60,3 +61,4 @@ catalogo.appendChild(tarjeta);
 });
 }
 window.onload = renderizarCatalogo;
+</main> 
