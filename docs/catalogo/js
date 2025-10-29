@@ -1,6 +1,6 @@
 <main id="catalogo">
 <!-- Los productos se insertarán aquí con JavaScript -->
-</main>
+
  {
  nombre: 'Televisor LG Smart TV 38"',
  descripcion: 'Televisor de 50 pulgadas con resolución 4K.',
@@ -61,4 +61,4 @@ catalogo.appendChild(tarjeta);
 });
 }
 window.onload = renderizarCatalogo;
-
+</main>
